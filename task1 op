@@ -1,0 +1,18 @@
+Python 3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+=================== RESTART: C:/Users/akkem vyshnavi/task1.py ==================
+Word: ___
+Enter a letter: python
+Wrong Guess!
+Chances Left: 5
+Word: __t
+Enter a letter: apple
+Wrong Guess!
+Chances Left: 4
+Word: _at
+Enter a letter: school
+Wrong Guess!
+Chances Left: 3
+Word: cat
+You Win!
